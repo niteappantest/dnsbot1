@@ -30,8 +30,7 @@
 
 ### Edit file
 - [`setting.json`](https://github.com/denisputraa/dnsbot/blob/master/dns/setting.json#95)
-```
-json
+```json
 {
 "botName": "DNS-BOT",
 "ownerName": "デ ニ ス",
