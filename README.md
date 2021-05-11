@@ -29,7 +29,7 @@
 ```
 
 ### Edit file
-- Change bot name [disini](https://github.com/denisputraa/dnsbot/blob/master/dns/setting.json#95)
+- [`setting.json`](https://github.com/denisputraa/dnsbot/blob/master/dns/setting.json#95)
 ```
 {
 "botName": "DNS-BOT",
