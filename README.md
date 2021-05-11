@@ -29,7 +29,26 @@
 ```
 
 ### Edit file
-- Change name bot [disini](https://github.com/denisputraa/dnsbot/blob/master/dns/setting.json#95)
+- Change bot name [disini](https://github.com/denisputraa/dnsbot/blob/master/dns/setting.json#95)
+```
+{
+"botName": "DNS-BOT",
+"ownerName": "デ ニ ス",
+"igName": "@denssptraa",
+"ytName": "Dcode-Denpa",
+"kontakName": "デ ニ ス 息 子",
+"kontakORG": "Owner Dns Bot",
+"grupLink": "https://bit.ly/3evYvqQ",
+"igLink": "https://bit.ly/3uxaF8A",
+"ytLink": "https://bit.ly/3he5QwU",
+"vhtear": "APIKEY",
+"xteam": "APIKEY",
+"limitawal": "50",
+"memberlimit": "0",
+"cr": "dcode-denpa",
+"owner": "6285866295942"
+}
+```
 
 ## Special Thanks To
 * [`Ramlan ID`](https://github.com/Ramlan404)
