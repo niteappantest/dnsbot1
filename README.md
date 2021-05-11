@@ -1,4 +1,4 @@
-# dnsbot
-Dns Bot V2
+# Dns Bot V2
+
 
 ## COOMING SOON
