@@ -28,6 +28,8 @@
 > npm start
 ```
 
+### Edit file
+- Change name bot [disini](https://github.com/denisputraa/dnsbot/blob/master/dns/setting.json#95)
 
 ## Special Thanks To
 * [`Ramlan ID`](https://github.com/Ramlan404)
