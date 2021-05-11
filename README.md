@@ -50,6 +50,8 @@
 }
 ```
 
+<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/kawaii-aegyo-4QxQgWZHbeYwM" />
+
 ## Special Thanks To
 * [`Ramlan ID`](https://github.com/Ramlan404)
 * [`DNS Team`](https://instagram.com/denssptraa)
