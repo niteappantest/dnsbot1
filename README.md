@@ -35,11 +35,11 @@
 ## Special Thanks To
 * [`Ramlan ID`](https://github.com/Ramlan404)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
-
+* [`DNS Team`](https://instagram.com/denssptraa)
 
 ## Social Media
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
-* [`WhatsApp`](https://chat.whatsapp.com/Hpwp8FBfJMtHEN5KeuFJKw)
+* [`WhatsApp`](https://chat.whatsapp.com/CZ5eaZM1BeG7qoBN9jhbN4)
 * [`Instagram`](https://instagram.com/denssptraa)
 
 
