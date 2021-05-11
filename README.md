@@ -5,10 +5,6 @@
 <a href="https://github.com/denisputraa">
 </p>
 
-<input type="button" value="PLAY MUSIC"  onclick="play()">
-<audio id="audio" src="https://e.top4top.io/m_1759h5gd90.mp3" ></audio>
-<b><h3><font face="courier new"><marquee direction="left"> </marquee></h3></font></b>
-  
 ## Things I Code With
 <p>
     <img
