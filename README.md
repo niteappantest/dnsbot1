@@ -28,7 +28,7 @@
 > npm start
 ```
 
-### Edit file
+### Edit File
 - [`setting.json`](https://github.com/denisputraa/dnsbot/blob/master/dns/setting.json#95)
 ```json
 {
