@@ -50,8 +50,6 @@
 }
 ```
 
-<img align="center" fit="fill" alt="GIF" src="https://giphy.com/gifs/4QxQgWZHbeYwM" />
-
 ## Special Thanks To
 * [`Ramlan ID`](https://github.com/Ramlan404)
 * [`DNS Team`](https://instagram.com/denssptraa)
@@ -61,7 +59,3 @@
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
 * [`WhatsApp`](https://chat.whatsapp.com/CZ5eaZM1BeG7qoBN9jhbN4)
 * [`Instagram`](https://instagram.com/denssptraa)
-
-
-
-
