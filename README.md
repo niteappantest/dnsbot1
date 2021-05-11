@@ -28,7 +28,7 @@
 
 ### Usage
 ```bash
-> node index.js
+> npm start
 ```
 
 
