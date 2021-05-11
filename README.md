@@ -34,8 +34,8 @@
 
 ## Special Thanks To
 * [`Ramlan ID`](https://github.com/Ramlan404)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DNS Team`](https://instagram.com/denssptraa)
+* [`Mhankbarbar`](https://github.com/MhankBarBar)
 
 ## Social Media
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
