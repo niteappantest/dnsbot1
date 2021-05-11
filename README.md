@@ -16,9 +16,6 @@
 <input type="button" value="PLAY MUSIC"  onclick="play()">
 <audio id="audio" src="https://e.top4top.io/m_1759h5gd90.mp3" ></audio>
 <b><h3><font face="courier new"><marquee direction="left"> </marquee></h3></font></b>
-</right>
-</body>
-</html>
   
 ## Things I Code With
 <p>
@@ -26,8 +23,6 @@
         src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img
         src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
-
 
 ## Clone This Project
 
