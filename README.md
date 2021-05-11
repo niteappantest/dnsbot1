@@ -33,12 +33,11 @@
 
 
 ## Special Thanks To
-* [`Fxc7`](https://github.com/Fxc7)
-* [`DIM5`](https://github.com/D1M5-DARKBOT)
+* [`Ramlan ID`](https://github.com/Ramlan404)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
 
-## Sosmed
+## Social Media
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
 * [`WhatsApp`](https://chat.whatsapp.com/Hpwp8FBfJMtHEN5KeuFJKw)
 * [`Instagram`](https://instagram.com/denssptraa)
